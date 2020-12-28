@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# `CodeMonk`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+<img src="./public/CodeMonk.png" height="100%" width="100%"/>
 
 In the project directory, you can run:
 
